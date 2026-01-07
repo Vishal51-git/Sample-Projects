@@ -1,1 +1,1 @@
-# Sample-Projects
+# VGX-Projects
